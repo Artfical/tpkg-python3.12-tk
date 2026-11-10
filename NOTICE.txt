@@ -1,0 +1,4 @@
+tkinter for Python 3.12 on tOS
+===========================
+
+_tkinter.so is Modules/_tkinter.c and tkappinit.c of Python-3.12.16.tar.xz (beside this package), unmodified, compiled against the tcltk package; tkinter/ and turtle.py are that release's own files. The pyext-3.12 folder is found by the Python package (its sitecustomize adds it to sys.path). License: PSF (LICENSE).
